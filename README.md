@@ -1,5 +1,7 @@
 # Numerical Analysis
 we got the 
-```bisection
+```
+bisection
+
 ```
 method here
