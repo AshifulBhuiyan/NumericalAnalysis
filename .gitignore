@@ -1,0 +1,55 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.egg
+*.egg-info
+dist/
+build/
+*.log
+*.out
+*.dSYM/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments (commonly used in Python)
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+
+# IDEs (VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files created by text editors or IDEs
+*.swp
+*.swo
+
+# C/C++ compiled files (if applicable)
+*.o
+*.a
+*.so
+*.exe
+*.out
+
+# For R (if applicable)
+.Rhistory
+.RData
+.Rapp.history
+
+# For LaTeX (if applicable)
+*.aux
+*.log
+*.toc
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
